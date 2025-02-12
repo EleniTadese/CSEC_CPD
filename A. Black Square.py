@@ -14,3 +14,4 @@ result = calculate_calories(a, s)
 
 # Print the result
 print(result)
+
